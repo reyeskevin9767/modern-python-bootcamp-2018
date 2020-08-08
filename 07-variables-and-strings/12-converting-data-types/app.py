@@ -1,5 +1,4 @@
 
-
 # * Converting Data Types
 decimal = 12.56345634534
 integer = int(decimal)
